@@ -1,0 +1,27 @@
+1. <ImageView/>
+
+2. android:layout_width, android:text dan android:src merupakan contoh Atribut dari ViewGroup. ViewGroup ini merupakan Komponen-komponen User Interface.
+
+3.ILikePracticeSetsTheBest
+
+4.RelativeLayout dan LinearLayout disebut juga dengan Layout Utama.
+	_ RelativeLayout adalah layout yang tergantung. RelativeLayout akan meletakkan element secara bebas, tidak terurut. 
+	Peletakan berdasarkan ketergantungannya kepada yang lain, misal kepada parent atau kepada element yang lain.
+	- LinearLayout adalah layout yang terstruktur. linearlayout akan meletakkan element yang ada didalamnya secara berurutan tergantung orientasinya.
+	jika orientasinya vertica, maka peletakan element akan terurut kebewah. sedangkan jika orientasinya horizontal, 
+	
+maka peletakan elemennya akan terurut ke samping. 
+ 
+5.<Button
+	android:id="id/lyla_text_view"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textsize="24sp"
+	android:text="click Me"
+	android:layout_alignParentBottom="true"
+	android:layout_CenterHorizontal="true"
+
+6. 1) android orientation ="vertical"
+	(Mengurut ke bawah)
+   2) android orientation ="Horizontal"
+	(Mengurut ke pinggir)
